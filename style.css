@@ -1,0 +1,19 @@
+/**{
+    padding:0;
+    margin:0;
+}
+
+#nav{
+    height:60px;
+    background-color:#0f11;
+    color:white;
+}
+    */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(53, 24, 41);
+    color:white;
+    border-color: 2px solid;
+}
